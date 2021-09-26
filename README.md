@@ -1,5 +1,3 @@
-# yza21.github.io
-<!doctype html>
 <html>
 <head>
 <meta charset="utf-8">
@@ -21,3 +19,4 @@
 </ul>
 </body>
 </html>
+
