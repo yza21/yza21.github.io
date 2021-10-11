@@ -3,7 +3,7 @@
 <meta charset="utf-8">
 <title>链接接集合</title>
 </head>
-<body>
+<body background="山水.jpg">
 <h1 align="center">链接总集</h1>
 <ul type="circle">
 <li><a href="Untitled-1.html">实验1-1</a></li>                 
