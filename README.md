@@ -2,8 +2,12 @@
 <head>
 <meta charset="utf-8">
 <title>链接接集合</title>
+<style type="text/css">
+    audio{display: none;}
+</style>
 </head>
 <body background="阿米娅2.jpg">
+<audio src="Heal the Wold.flac" autoplay="autoplay" controls="controls" preload="auto"></audio>
 <h1 align="center">链接总集</h1>
 <ul type="circle">
 <li><a href="Untitled-1.html">实验1-1</a></li>                 
