@@ -2,13 +2,10 @@
 <head>
 <meta charset="utf-8">
 <title>链接接集合</title>
-<style type="text/css">
-    audio{display: none;}
-</style>
 </head>
 <body background="阿米娅2.jpg">
 <audio src="Heal the World1.mp3" autoplay="autoplay"  loop="loop" preload="auto"></audio>
-<h1 align="center">链接总集</h1>
+<h1 align="center">实验总集</h1>
 <ul type="circle">
 <li><a href="Untitled-1.html">实验1-1</a></li>                 
 <li><a href="Untitled-2.html">实验1-2</a></li>
