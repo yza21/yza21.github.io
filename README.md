@@ -1,7 +1,7 @@
 <html>
 <head>
 <meta charset="utf-8">
-<title>链接接集合</title>
+<title>链接集合</title>
 </head>
 <body background="阿米娅2.jpg">
 <audio src="Heal the World1.mp3" autoplay="autoplay"  loop="loop" preload="auto"></audio>
