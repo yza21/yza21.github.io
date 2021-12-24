@@ -1,0 +1,36 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Title</title>
+    <style type="text/css">
+        div{
+            width:400px;
+            margin:200px auto;
+        }
+        img
+        {
+            <!--margin:200px;-->
+        }
+    </style>
+    <script type="text/javascript">
+        function my_open()
+        {
+            let my_image=document.getElementById("my_img");
+            my_image.src="Inkedlight01.gif";
+        }
+        function my_close()
+        {
+            let my_image=document.getElementById("my_img");
+            my_image.src="light01.gif";
+        }
+    </script>
+</head>
+<body>
+<div>
+    <button onclick="my_close()" >关灯</button>
+    <img id="my_img" src="light01.gif" alt="#" />
+    <button onclick="my_open()" >开灯</button>
+</div>
+</body>
+</html>
