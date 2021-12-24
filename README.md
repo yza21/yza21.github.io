@@ -7,7 +7,7 @@
 </style>
 </head>
 <body background="阿米娅2.jpg">
-<audio src="Heal the Wold1.mp3" autoplay="autoplay" controls="controls" preload="auto"></audio>
+<audio src="Heal the World1.mp3" autoplay="autoplay"  loop="loop" preload="auto"></audio>
 <h1 align="center">链接总集</h1>
 <ul type="circle">
 <li><a href="Untitled-1.html">实验1-1</a></li>                 
